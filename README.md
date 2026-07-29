@@ -29,9 +29,3 @@ This project is an interactive Power BI dashboard that analyzes credit card fina
 - `Dashboard.pdf` – Dashboard report
 - `Project_Report.pdf` – Project documentation
 - `README.md` – Project overview
-
-## 👨‍💻 Author
-**Somnath Sen**
-
-If you found this project helpful, don't forget to ⭐ this repository.# Credit_card_financial_Dashboard
-Power bi dashboard 
